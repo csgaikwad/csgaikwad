@@ -10,10 +10,9 @@
 
 ## 🔧 Tech Stack
 
-- ***Frontend*** : React.js, HTML, CSS, Tailwind CSS, Bootstrap, EJS.
-- ***Backend***  : Node.js, Express.js.
-- ***Database*** : MongoDB.
-- ***Version Control*** : Git, GitHub.
+- Javascript, Typescript 
+- NextJs React.js, ExpressJs, Tailwind CSS, EJS.
+- MongoDB, PostgreSql 
 
 
 ## 🌱 Learning and Growing
@@ -21,7 +20,7 @@
 - WebRTC for real-time communication.
 - WebSockets for building interactive applications.
 - DevOps for seamless development and deployment workflows.
-- Trying to make working Video Call Web and Multiplayer Chess Web.
+- Aiming to make working Video Call Web and Multiplayer Chess Web.
 
 
 ## <div align="center">🤝 Let's Connect 🤝
