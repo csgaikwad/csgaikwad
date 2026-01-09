@@ -11,7 +11,7 @@
 ## 🔧 Tech Stack
 
 - Javascript, Typescript 
-- NextJs React.js, ExpressJs, Tailwind CSS, EJS.
+- NextJs, React.js, ExpressJs, Tailwind CSS, EJS.
 - MongoDB, PostgreSql 
 
 
